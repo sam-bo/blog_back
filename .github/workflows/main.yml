@@ -36,7 +36,7 @@ jobs:
         npm i
         # 拉取主题代码
         rm -rf themes/*
-        git clone git@github.com:sam-bo/hexo-theme-magnetic.git themes/magnetic
+        git clone https://github.com/sam-bo/hexo-theme-magnetic.git themes/magnetic
         
   
     - name: Deploy
