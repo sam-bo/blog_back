@@ -34,7 +34,7 @@ jobs:
         # install dependencies
         npm i -g hexo-cli # 安装hexo
         npm i
-        # 拉取主题代码
+        # 拉取主题代码 
         rm -rf themes/*
         git clone https://github.com/sam-bo/hexo-theme-magnetic.git themes/magnetic
         
