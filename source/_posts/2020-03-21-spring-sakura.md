@@ -7,7 +7,7 @@ tags: [作品,人像,樱花]
 brief: [作品]
 reward: true
 categories: 作品
-cover_index: http://img.winterchen.com/DSC_0045-9.JPG
+cover_index: http://img.winterchen.com/2020032118080811.jpg
 ---
 
 如此明媚的夏天，谁想到在修图的时候竟下起了暴风雨甚至夹带着冰雹
