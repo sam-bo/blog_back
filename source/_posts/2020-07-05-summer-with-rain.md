@@ -49,7 +49,6 @@ cover_index: http://img.winterchen.com/DSC_0067的副本.jpg
 
 ![](http://img.winterchen.com/DSC_0074.jpg)
 
-![](http://img.winterchen.com/DSC_0074.jpg)
 
 ![](http://img.winterchen.com/DSC_0014-编辑.jpg)
 
