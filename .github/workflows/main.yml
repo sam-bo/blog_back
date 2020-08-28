@@ -48,3 +48,14 @@ jobs:
       run: |
         # publish
         hexo generate && hexo deploy # 执行部署程序
+    
+    - uses: actions/checkout@v2
+    - uses: ngduc/vercel-deploy-action@master
+      with:
+        vercel-cli: vercel # optional ("vercel" or "now")
+        vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
+        github-token: ${{ secrets.OP_TOKEN }} #Optional 
+        vercel-args: '--prod' #Optional
+        vercel-org-id: ${{ secrets.ORG_ID}}  #Required
+        vercel-project-id: ${{ secrets.PROJECT_ID}} #Required 
+        working-directory: ./public/
