@@ -17,7 +17,7 @@ jobs:
     
     steps:
     - name: Checkout # 将仓库内master分支的内容下载到工作目录
-      uses: actions/checkout@v2 # 脚本来自 https://github.com/actions/checkout
+      uses: actions/checkout@v1 # 脚本来自 https://github.com/actions/checkout
       
     - name: Use Node.js 10.x # 配置Node环境
       uses: actions/setup-node@v1 # 配置脚本来自 https://github.com/actions/setup-node
@@ -57,4 +57,4 @@ jobs:
         vercel-args: '--prod' #Optional
         vercel-org-id: ${{ secrets.ORG_ID}}  #Required
         vercel-project-id: ${{ secrets.PROJECT_ID}} #Required 
-        working-directory: ./public/
+        working-directory: ./public
