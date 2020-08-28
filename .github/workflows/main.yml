@@ -5,7 +5,7 @@ on:
     branches:
       - master # 代码提交的时候触发构建部署
   schedule:
-    - cron: "0 14 * * *"  # 定时任务：每天下午14点钟触发
+    - cron: "0 4 * * *"  # 定时任务：每天下午14点钟触发
 
 env:
   TZ: Asia/Shanghai
@@ -66,6 +66,4 @@ jobs:
         vercel-project-id: ${{ secrets.PROJECT_ID}} # optional
         # Vercel CLI 17+, ❗️  The `name` property in vercel.json is deprecated (https://zeit.ink/5F)
         vercel-org-id: ${{ secrets.ORG_ID}} # optional
-        # zeit.co token
-        zeit-token: ${{ secrets.VERCEL_TOKEN }}
        
