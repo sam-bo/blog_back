@@ -49,7 +49,6 @@ jobs:
         # publish
         hexo generate && hexo deploy # 执行部署程序
     
-    - uses: actions/checkout@v2
     - uses: ngduc/vercel-deploy-action@master
       with:
         vercel-cli: vercel # optional ("vercel" or "now")
