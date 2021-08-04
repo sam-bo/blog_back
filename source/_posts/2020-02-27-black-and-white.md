@@ -7,31 +7,31 @@ tags: [作品,人像]
 brief: [作品]
 reward: true
 categories: 作品
-cover_index: http://img.winterchen.com/2020061322111344.png
+cover_index: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053521695426.png
 ---
 
 疫情还没有过去，宅在家里给老婆孩子拍了一组
 
-![](http://img.winterchen.com/202006132114211.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053522466812.png)
 
 
-![](http://img.winterchen.com/202006132115281.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053523691364.png)
 
 
-![](http://img.winterchen.com/202006132116161.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053524990393.png)
 
-![](http://img.winterchen.com/202006132117371.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053526945311.png)
 
-![](http://img.winterchen.com/202006132118241.png)
-
-
-![](http://img.winterchen.com/202006132119141.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053528783431.png)
 
 
-![](http://img.winterchen.com/202006132120221.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053530273837.png)
 
 
-![](http://img.winterchen.com/202006132121121.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053531785864.png)
 
 
-![](http://img.winterchen.com/202006132123061.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053533786256.png)
+
+
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053535037355.png)

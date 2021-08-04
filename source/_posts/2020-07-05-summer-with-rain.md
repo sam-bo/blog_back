@@ -7,50 +7,50 @@ tags: [作品,人像,儿童,夏天,蓝色,青色]
 brief: [作品]
 reward: true
 categories: 作品
-cover_index: http://img.winterchen.com/DSC_0067的副本.jpg
+cover_index: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053617393688.jpg
 ---
 
 
-![](http://img.winterchen.com/DSC_0016.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051733845851.jpg)
 
-![](http://img.winterchen.com/DSC_0017.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051734210320.jpg)
 
-![](http://img.winterchen.com/DSC_0022.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051734675766.jpg)
 
-![](http://img.winterchen.com/DSC_0025-编辑.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053619999287.jpg)
 
-![](http://img.winterchen.com/DSC_0028-编辑.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053620843271.jpg)
 
-![](http://img.winterchen.com/DSC_0037-编辑.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053621677285.jpg)
 
-![](http://img.winterchen.com/DSC_0038-编辑.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053629157768.jpg)
 
-![](http://img.winterchen.com/DSC_0041.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051756315482.jpg)
 
-![](http://img.winterchen.com/DSC_0047-编辑.jpg)
-
-
-![](http://img.winterchen.com/DSC_0053.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053630108986.jpg)
 
 
-![](http://img.winterchen.com/DSC_0056.jpg)
-
-![](http://img.winterchen.com/DSC_0063-编辑.jpg)
-
-![](http://img.winterchen.com/DSC_0066.jpg)
-
-![](http://img.winterchen.com/DSC_0067.jpg)
-
-![](http://img.winterchen.com/DSC_0067的副本.jpg)
-
-![](http://img.winterchen.com/DSC_0068.jpg)
-
-![](http://img.winterchen.com/DSC_0070.jpg)
-
-![](http://img.winterchen.com/DSC_0074.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051758932869.jpg)
 
 
-![](http://img.winterchen.com/DSC_0014-编辑.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051762192505.jpg)
 
-![](http://img.winterchen.com/DSC_0015-编辑.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053631636083.jpg)
+
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051763543336.jpg)
+
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051764961023.jpg)
+
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053632264596.jpg)
+
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051770406880.jpg)
+
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051773098043.jpg)
+
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051774216840.jpg)
+
+
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053634941746.jpg)
+
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053636316660.jpg)
 

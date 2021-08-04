@@ -7,33 +7,33 @@ tags: [作品,人像,秋天,橙色,黄色]
 brief: [作品]
 reward: true
 categories: 作品
-cover_index: http://img.winterchen.com/DSC_0356的副本.jpg
+cover_index: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053616815746.jpg
 ---
 
 
-![](http://img.winterchen.com/DSC_0356.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051726298885.jpg)
 
-![](http://img.winterchen.com/DSC_0603.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051726705928.jpg)
 
-![](http://img.winterchen.com/DSC_0605.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051727107874.jpg)
 
-![](http://img.winterchen.com/DSC_0613-COLLAGE.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051727511075.jpg)
 
-![](http://img.winterchen.com/DSC_0615.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051727793710.jpg)
 
-![](http://img.winterchen.com/DSC_0641.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051728137968.jpg)
 
-![](http://img.winterchen.com/DSC_0642.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051728459935.jpg)
 
-![](http://img.winterchen.com/DSC_0513.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051729097786.jpg)
 
-![](http://img.winterchen.com/DSC_0576.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051730046972.jpg)
 
-![](http://img.winterchen.com/DSC_0584.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051730646716.jpg)
 
-![](http://img.winterchen.com/DSC_0600.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051731173597.jpg)
 
-![](http://img.winterchen.com/DSC_0626.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051731521832.jpg)
 
-![](http://img.winterchen.com/DSC_0649.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051732017738.jpg)
 

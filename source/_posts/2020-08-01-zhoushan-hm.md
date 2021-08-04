@@ -7,26 +7,26 @@ tags: [作品,人像,儿童,夏天,海边,蓝色,青色]
 brief: [作品]
 reward: true
 categories: 作品
-cover_index: http://img.winterchen.com/20200823155107.jpg
+cover_index: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051791010024.jpg
 ---
 
 
-![](http://img.winterchen.com/20200823160202.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051803370505.jpg)
 
-![](http://img.winterchen.com/20200823160213.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051804121830.jpg)
 
-![](http://img.winterchen.com/20200823160236.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051804942187.jpg)
 
-![](http://img.winterchen.com/20200823160254.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051815575210.jpg)
 
-![](http://img.winterchen.com/20200823160323.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051816440788.jpg)
 
-![](http://img.winterchen.com/20200823160338.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051827815431.jpg)
 
-![](http://img.winterchen.com/20200823160410.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051838092582.jpg)
 
-![](http://img.winterchen.com/20200823160418.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051850712967.jpg)
 
-![](http://img.winterchen.com/20200823160425.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628051852402163.jpg)
 
 

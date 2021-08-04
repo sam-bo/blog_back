@@ -7,10 +7,10 @@ tags: [作品,静物]
 brief: [作品]
 reward: true
 categories: 作品
-cover_index: http://img.winterchen.com/2020061q3211130.png
+cover_index: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053537743162.png
 ---
 
-![](http://img.winterchen.com/2020061321123111.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053539729598.png)
 
-![](http://img.winterchen.com/202006132113011.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628053541343202.png)
 
